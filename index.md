@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Hi, my name is Justas'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Driven by a fascination for technology ⚙️ and aesthetics ✨, I am a designer constantly exploring the intersection of functionality and visual appeal. My inspiration springs from the world of open-source customization <0xF0><0x9F><0xAA><0xB2>, where the power of personalization 🛠️ meets intricate detail 🔍. From crafting immersive digital experiences 📱 to curating striking visual elements 🖼️, I thrive on the challenge of bringing innovative ideas to life 💡. My design journey is fueled by a deep appreciation for the possibilities that arise when technical expertise 💻 blends seamlessly with creative vision 🎨. 🚀🌟
