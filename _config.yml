@@ -9,9 +9,9 @@ author:
 street_address: Sea Tower, Corniche
 city: Abu Dhabi
 state: AD
-zip_code: 55555
+# zip_code: 55555
 country: United Arab Emirates
-phone: (716) 555-5555
+phone: +971588544264
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -23,13 +23,13 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub: https://github.com/jstepanovas
-  GitLab:
+  #GitLab:
 #  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
   Instagram: https://www.instagram.com/jstepanovas
   LinkedIn: https://www.linkedin.com/in/jstepanovas
   Twitter: https://x.com/jstepanovas
-  Facebook:
-  Slack:
+  #Facebook:
+  #Slack:
 
 # build settings
 markdown: kramdown
