@@ -1,7 +1,7 @@
 ---
 title: Landing
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Tech-driven designer with a love for open-source customization and visual detail. Exploring the intersection of functionality and aesthetics. ⚙️✨'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -15,7 +15,9 @@ nav-menu: true
 		<header class="major">
 			<h2>Sed amet aliquam</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>This experimental model uses your Search history. Some features aren't available.
+
+Welcome to my digital space! 👋 I'm a designer driven by a fascination for technology ⚙️ and aesthetics ✨, constantly exploring the intersection of functionality and visual appeal. My inspiration springs from the world of open-source customization, where the power of personalization 🛠️ meets intricate detail 🔍. Here you'll find a collection of my explorations, from crafting immersive digital experiences 📱 to curating striking visual elements 🖼️. I thrive on the challenge of bringing innovative ideas to life 💡, and my design journey is fueled by a deep appreciation for the possibilities that arise when technical expertise 💻 blends seamlessly with creative vision 🎨. Feel free to explore! 🚀🌟</p>
 	</div>
 </section>
 
