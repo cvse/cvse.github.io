@@ -13,11 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Welcome to my digital space! 👋</h2>
 		</header>
-		<p>This experimental model uses your Search history. Some features aren't available.
-
-Welcome to my digital space! 👋 I'm a designer driven by a fascination for technology ⚙️ and aesthetics ✨, constantly exploring the intersection of functionality and visual appeal. My inspiration springs from the world of open-source customization, where the power of personalization 🛠️ meets intricate detail 🔍. Here you'll find a collection of my explorations, from crafting immersive digital experiences 📱 to curating striking visual elements 🖼️. I thrive on the challenge of bringing innovative ideas to life 💡, and my design journey is fueled by a deep appreciation for the possibilities that arise when technical expertise 💻 blends seamlessly with creative vision 🎨. Feel free to explore! 🚀🌟</p>
+		<p>Welcome to my digital space! 👋 I'm a designer driven by a fascination for technology ⚙️ and aesthetics ✨, constantly exploring the intersection of functionality and visual appeal. My inspiration springs from the world of open-source customization, where the power of personalization 🛠️ meets intricate detail 🔍. Here you'll find a collection of my explorations, from crafting immersive digital experiences 📱 to curating striking visual elements 🖼️. I thrive on the challenge of bringing innovative ideas to life 💡, and my design journey is fueled by a deep appreciation for the possibilities that arise when technical expertise 💻 blends seamlessly with creative vision 🎨. Feel free to explore! 🚀🌟</p>
 	</div>
 </section>
 
