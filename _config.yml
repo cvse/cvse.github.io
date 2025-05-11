@@ -5,7 +5,7 @@ email: j.stepanovas@icloud.com
 description: Tech-driven designer with a love for open-source customization and visual detail. Exploring the intersection of functionality and aesthetics. ⚙️✨
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
+author: @jstepanovas
 street_address: Sea Tower, Corniche
 city: Abu Dhabi
 state: AD
